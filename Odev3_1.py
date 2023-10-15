@@ -7,7 +7,7 @@ while i < len(notlar):
     i += 1
 
 max_deger = 0
-skor = 1
+skor = 0
 
 while skor < len(notlar):
         if notlar[skor] > max_deger:
